@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Discord Status
-<a href="https://discord.com/users/731754141331882017">
-<img height="80px" src="https://discord.c99.nl/widget/theme-2/930662117630165013.png" />
-</a>
