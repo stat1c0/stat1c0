@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://c.tenor.com/zMdZBjJ7gPkAAAAd/aesthetic-wallpaper.gif"/>
+  <img src="https://c.tenor.com/GiO4XNKti44AAAAd/retrowave-synthwave.gif"/>
   </p>
   <p align="center"> Chillin'</p>
 <p align="center">
