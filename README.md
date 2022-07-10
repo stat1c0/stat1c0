@@ -2,28 +2,28 @@
 <h3 align="center">A crackhead teenager from Kerala, IN </h3>
 
 <p align="center">
-  <img src="https://c.tenor.com/pf2P6_96V80AAAAC/animated-anime.gif"/>
+  <img src="https://c.tenor.com/zMdZBjJ7gPkAAAAd/aesthetic-wallpaper.gif"/>
   </p>
-  <p align="center"> Chillin'</p>
-  
+
+
+ <p align="center"> Chillin'</p>
+
   <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/930662117630165013.png"/>
   </p>
 
-- I’m currently working on [Shhh...](https://github.com/1c0x/1c0x-discordbot.js)
 
-- Owner of [1c0x](https://github.com/1c0x)
 
 - [stat1c0.github.io/projects](https://stat1c0.github.io/Stuff/Projects/pjs.html)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/stat1c0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="stat1c0" height="30" width="40" /></a>
 <a href="https://twitter.com/stat1c0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stat1c0" height="30" width="40" /></a>
 <a href="https://instagram.com/stat1c0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stat1c0" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucculuqpnf07ylq1pfbwmlxg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucculuqpnf07ylq1pfbwmlxg" height="30" width="40" /></a>
 <a href="https://discord.gg/PcRKRdWZQy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PcRKRdWZQy" height="30" width="40" /></a>
+<a href="https://dev.to/stat1c0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="stat1c0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
