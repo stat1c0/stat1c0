@@ -2,7 +2,7 @@
 <h3 align="center">A crackhead teenager from Kerala, IN </h3>
 
 <p align="center">
-  <img src="https://c.tenor.com/zMdZBjJ7gPkAAAAd/aesthetic-wallpaper.gif"/>
+  <img src="https://c.tenor.com/pf2P6_96V80AAAAC/animated-anime.gif"/>
   </p>
   <p align="center"> Chillin'</p>
   
