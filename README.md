@@ -11,7 +11,7 @@
   <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/930662117630165013.png"/>
   </p>
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/930662117630165013)](https://discord.com/users/930662117630165013)
 
 
 - [stat1c0.github.io/projects](https://stat1c0.github.io/Stuff/Projects/pjs.html)
