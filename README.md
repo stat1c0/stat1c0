@@ -13,10 +13,6 @@
   </p>
 
 
-
-- [stat1c0.github.io/projects](https://stat1c0.github.io/Stuff/Projects/pjs.html)
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/stat1c0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stat1c0" height="30" width="40" /></a>
